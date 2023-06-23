@@ -154,7 +154,7 @@ Thank you for reading!
 
 ## Author
 
-- Personal Website - [Acelmor](acelmor.com)
+- Personal Website - [John Leomarc Alonzo](acelmor.com)
 - Frontend Mentor - [@alonzo0812](https://www.frontendmentor.io/profile/alonzo0812)
 
 
