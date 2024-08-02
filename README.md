@@ -1,6 +1,6 @@
 # Frontend Mentor - Rock, Paper, Scissors solution
 
-This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH).
 
 ## Table of contents
 
@@ -29,10 +29,13 @@ Users should be able to:
 ### Screenshot
 
 - 1366px width
+- 
 ![](./screenshot.png)
 - 700px width
+- 
 ![](./700pxscreenshot.png)
 - 375px width
+- 
 ![](./375pxscreenshot.png)
 
 ### Links
@@ -47,7 +50,6 @@ Users should be able to:
 - CSS (Flexbox, Media Queries)
 - Native JavaScript methods & DOM manipulation
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
